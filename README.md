@@ -59,7 +59,7 @@ Looks at SLA breaches by department and priority, breach duration, and actual re
 
 Shows the main areas that need investigation, the data that would help find the root cause, and the next analysis I would perform.
 
-[Action Plan](Screenshots/Action_Plan.png)
+[Action Plan](Screenshots/Action_plan.png)
 
 ## Main Findings
 
